@@ -7,7 +7,7 @@ public class exercicios1 {
        String senha = "timao";
 
        Scanner sc = new Scanner(System.in);
-
+ //teste
        int tentativas = 3;
 
        while (tentativas > 0) {
